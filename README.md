@@ -21,6 +21,8 @@ EVB code for LED controller based on NRF52 and WS2812B led strip
 
 <img alt="Crescendo sequence" src="/pic/Equipment.jpg" width="1000"/>
 
+## Spin photo 360
+http://www.jjcloud.me/showSpin.php?id=1504186401
 
 ## SPI part from 
 [https://github.com/takafuminaka/nRF52832]
